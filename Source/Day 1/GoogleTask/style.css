@@ -36,10 +36,9 @@ body {
 }
 
 #menu-icon {
-  background-image: url("https://ssl.gstatic.com/gb/images/i2_2ec824b0.png");
   width: 30px;
   height: 30px;
-  background-position: -132px -38px;
+  background: url("https://ssl.gstatic.com/gb/images/i2_2ec824b0.png") -132px -38px;
   background-size: 528px 68px;
 }
 
