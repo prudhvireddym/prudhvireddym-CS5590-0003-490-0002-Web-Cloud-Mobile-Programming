@@ -1,0 +1,45 @@
+body{
+    background-image: url(ticbg.jpg);
+}
+header{
+    font-family: Arial;
+    font-size: 50px;
+    color: black;
+}
+
+table {
+    margin: 10px;
+    border: black 1px solid;
+}
+tr {
+    margin: 2px;
+}
+td {
+    border: black 1px solid;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+table, th, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+    font-family: Arial bold;
+    background-color: white;
+    color: blue;
+}
+th, td {
+    padding: 40px;
+    font-size: 40px;
+}
+
+.btn{
+    width: 300px;
+    height: 50px;
+    background-color: ghostwhite;
+}
+
+.winning {
+    background-color: darkblue;
+    color: white;
+}
