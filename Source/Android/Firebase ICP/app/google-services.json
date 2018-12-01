@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "985829924835",
+    "firebase_url": "https://web-cloud-new-lab-4.firebaseio.com",
+    "project_id": "web-cloud-new-lab-4",
+    "storage_bucket": "web-cloud-new-lab-4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985829924835:android:5e003c9f6c9670f5",
+        "android_client_info": {
+          "package_name": "com.umkc.mobile_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985829924835-fjc43sdff1b37q7ppb17rc0q9dqklhlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWnxDjW66m9JGh5_wtB13h2SqGhjhg298"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
